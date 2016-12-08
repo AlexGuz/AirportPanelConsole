@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AirportPanelConsole
 {
-    //create struct for List<T>
-    struct Departures
+    class Flying
     {
+        public FlyingType Type;
         public DateTime Time;
         public string FlNumber;
         public string Town;

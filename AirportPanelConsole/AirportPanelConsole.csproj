@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arrival.cs" />
-    <Compile Include="Departures.cs" />
     <Compile Include="FlStatus.cs" />
+    <Compile Include="Flying.cs" />
+    <Compile Include="FlyingType.cs" />
     <Compile Include="Gate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
